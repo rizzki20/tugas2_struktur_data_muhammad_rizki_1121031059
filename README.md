@@ -1,0 +1,2 @@
+# tugas2_struktur_data_muhammad_rizki_1121031059
+untuk memenuhi tugas struktur data
